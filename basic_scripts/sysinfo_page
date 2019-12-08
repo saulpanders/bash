@@ -1,0 +1,14 @@
+#!/bin/bash
+# sysinfor_page: a script to produce an html file
+
+echo "<html>"
+echo "<head>"
+echo "	<title>"
+echo "	TitlePage420"
+echo "	</title>"
+echo "</head>"
+echo ""
+echo "<body>"
+echo " Youre body goes here."
+echo "</body>"
+echo "</html>"
